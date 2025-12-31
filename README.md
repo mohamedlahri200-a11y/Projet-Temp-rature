@@ -1,5 +1,8 @@
 Titre du projet : Propagation de température en C avec listes chaînées
+
+
 Description :
+
 Ce projet propose une simulation numérique de la propagation de la température dans un système à deux dimensions en utilisant le langage C et des listes chaînées. Chaque nœud de la liste représente un point de la grille avec sa température, permettant une gestion dynamique de la mémoire et une simulation flexible.
 Partie physique :
 La simulation repose sur l’équation de diffusion de la chaleur :
